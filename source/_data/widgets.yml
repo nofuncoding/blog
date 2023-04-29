@@ -1,0 +1,4 @@
+search:
+  layout: search
+  filter: auto # auto or '/path'
+  placeholder: 搜索 # 搜索框处显示的文字

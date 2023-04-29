@@ -11,7 +11,7 @@ author: NoFun
 language: 
   - zh-CN
   - en
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -105,3 +105,8 @@ theme: stellar #landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+inject:
+  head:
+    - <link href="https://cdn.jsdelivr.net/npm/font-smiley-sans@1.0.0/style.css" rel="stylesheet">
+  script:
