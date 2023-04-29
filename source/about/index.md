@@ -10,7 +10,7 @@ title: 关于
 初中牲，男（{% psw 废话 %}
 
 - 会 Python, C/C++, C#......
-- 目前在学做游戏 {% wavy Godot YYDS %}
+- 目前在学做游戏 {% wavy (Godot YYDS!) %}
 
 ## 关于这个网站
 
