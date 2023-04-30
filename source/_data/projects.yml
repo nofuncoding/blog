@@ -1,0 +1,9 @@
+Games:
+  name: 游戏
+  title: 我的游戏
+  subtilte: "Godot Forever! | Remember it"
+  cover: true
+  logo:
+    src: https://godotengine.org/assets/logo_dark.svg
+#    small: 112px
+#    large: 240px
