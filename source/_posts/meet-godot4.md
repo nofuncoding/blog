@@ -1,6 +1,6 @@
 ---
 tags: [godot4]
-cover: https://godotengine.org/storage/blog/covers/godot-4-0-sets-sail.webp
+cover: assets/posts/godot-4-0-sets-sail.webp
 poster:
     topic: 游戏开发
     headline: 遇见 Godot 4
