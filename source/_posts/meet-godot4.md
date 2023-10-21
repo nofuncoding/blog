@@ -21,5 +21,5 @@ poster:
 如果要更加深入地了解该引擎，建议你进一步阅读官方文档，特别是渐进式教程。
 
 {% ablock 注意 color:warning %}
-截至 2023.4.30，Godot 官方文档的中文版仍停留在 Godot 3.5 版本。我非常推荐你在使用时阅读最新的[英语版文档](https://docs.godotengine.org/en/latest)
+截至 2023.10.21，Godot 官方文档的中文版已更新至 4.2 版本，但还不完全。我非常推荐你在使用时阅读最新的[英语版文档](https://docs.godotengine.org/en/latest)
 {% endablock %}

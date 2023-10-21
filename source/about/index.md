@@ -3,15 +3,18 @@ menu_id: about
 title: 关于
 ---
 
-## 关于 NoFun
+## 关于我
 
-{% del 我是一个精通人性的程序猿 %}
+**NoFun** is Not Found.
 
-初中牲，男（{% psw 废话 %}
+个人程序员以及设计师，初中生。
 
-- 会 **Python**, C/C++, C#......
-- 目前在学做游戏 {% wavy (Godot YYDS!) %}
+现正在 [Compacy Games](https://compacy-games.github.io) 工作。
+
+## 友链
+
+{% friends Compacy %}
 
 ## 关于这个网站
 
-由 Hexo 和 Github Pages 驱动，使用 Stellar 主题创建。
+由 Hexo 和 Github Pages 驱动，使用 [Stellar](https://xaoxuu.com/wiki/stellar) 主题创建。
