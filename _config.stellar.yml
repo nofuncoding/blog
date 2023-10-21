@@ -50,7 +50,8 @@ style:
       #code: 85% # 14px
       #codeblock: 0.8125rem
   font-family:
-    body: 'smiley-sans, system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
+#    body: 'smiley-sans, system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
+    body: '"Inter var", "Noto Sans SC", system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
 
 tag_plugins:
   emoji:

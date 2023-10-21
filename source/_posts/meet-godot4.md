@@ -1,5 +1,5 @@
 ---
-tags: [godot4]
+tags: [godot]
 cover: assets/posts/godot-4-0-sets-sail.webp
 poster:
     topic: 游戏开发
