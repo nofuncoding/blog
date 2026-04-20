@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+@theme {
+	--font-family-iosevka: 'Iosevka', monospace;
+}
+
+body {
+	background-color: #000;
+	color: #fff;
+	font-family: var(--font-family-iosevka);
+}
